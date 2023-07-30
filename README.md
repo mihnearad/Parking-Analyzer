@@ -7,6 +7,8 @@ Welcome to the Parking-Analyzer project! This tool emerged from a blend of my in
 Parking-Analyzer isn't just about marking spots as occupied or vacant. It tracks the orientation of parked cars. A seemingly minor detail, but in tight parking spots, it matters whether a car has pulled in nose-first or backed in.
 
 ![Input Screen](/Program_Screenshot.png)
+
+
 ![Database](/Database_View.png)
 
 
